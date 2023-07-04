@@ -51,4 +51,8 @@ button{
     .logo-show{
         display: block;
     }
+    .hidden-links .li{
+        margin-right: 10px;
+        font-size: 16px;
+    }
 }
