@@ -30,7 +30,7 @@ function About() {
         hesitate to reach out to us. Your input helps us serve you better.
         Indulge in a slice of pizza perfection today. Order online from [Pizza
         Restaurant Name] and get ready to experience a taste sensation like no
-        other. Thank you for choosing us—we can't wait to serve you! Sincerely,
+        other. Thank you for choosing us—we can't wait to serve you! <br/> Sincerely,
         Lizzi Pizzas Team.</p>
       </div>
       <div

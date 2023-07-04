@@ -7,8 +7,21 @@
     height: 90vh;
     background-position: center;
     background-size: cover;
-    
 }
+
 .left-side{
     width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left-side p{
+    padding: 20px;
+    font-weight: bold;
+    font-family: 'Prompt', sans-serif;
+    font-size: 17px;
+}
+@font-face {
+    font-family: 'Promt', sans-serif;
+    src: url('../../public/Prompt-Bold.ttf');
 }
