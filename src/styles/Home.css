@@ -31,9 +31,9 @@
 }
 @media screen and (max-width:468px) {
     .home h1{
-        font-size: 35px;
+        font-size: 25px;
     }
     .home h3{
-        font-size: 22px;
+        font-size: 16px;
     }
 }
