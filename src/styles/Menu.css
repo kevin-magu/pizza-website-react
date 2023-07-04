@@ -57,4 +57,10 @@
 }
 .left-side p{
     padding: 20px;
+    font-weight: bold;
+    font-family: cursive;
+}
+@font-face {
+    font-family: 'Promt', sans-serif;
+    src: url('public/Prompt-Bold.ttf');
 }
