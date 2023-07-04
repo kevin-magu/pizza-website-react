@@ -1,0 +1,13 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(166, 179, 179);
+}
+.social-links{
+    margin-top: 30px;
+}
+.copyright{
+    margin-bottom: 30px;
+}

@@ -1,0 +1,54 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    background-color: #020202;
+    color: white;
+    font-weight: bold;
+    font-size: 23px;
+}
+.li{
+    margin-right: 40px;
+    text-decoration: none;
+    color: white;
+}
+.menu-bar{
+    color: rgb(0, 0, 0);
+}
+
+button{
+    display: none;
+}
+.leftside #open,#close{
+    display: none;
+}
+
+@media screen and (max-width: 500px) {
+    .rightside .li{
+        display: none;
+        font-size: 12px;
+    }
+    .leftside .li{
+        font-size: 14px;
+    }
+    .leftside #open,#close{
+        display: block;
+    }
+    button{
+        display: block;
+    }
+    
+    #open{
+        display: block;
+    }
+    #close{
+        display: none;
+    }
+    .logo-hidden{
+        display: none;
+    }
+    .logo-show{
+        display: block;
+    }
+}
