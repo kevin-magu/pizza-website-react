@@ -4,7 +4,7 @@ import { Instagram } from "@mui/icons-material";
 import { Facebook } from "@mui/icons-material";
 import { Twitter } from "@mui/icons-material";
 import { LinkedIn } from "@mui/icons-material";
-import { He } from "@mui/icons-material";
+
 
 
 function Footer() {
