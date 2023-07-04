@@ -1,0 +1,7 @@
+.about-page-container{
+    display: flex;
+}
+
+.right-side{
+    width: 50%;
+}
