@@ -4,7 +4,7 @@ import '../styles/Menu.css'
 
 function Menu() {
   return (
-    <div>
+    <div className="menu-page-container">
     <h2 className="menu-title">Menu</h2>
     <div className="div-card-container">
         {foodInfo.map((menuItem, key) => {
