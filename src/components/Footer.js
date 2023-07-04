@@ -12,7 +12,7 @@ function Footer() {
     <div className="footer">
         <p className="social-links"> <Instagram /> <Facebook /> <Twitter /> <LinkedIn /> </p>
         <p className="copyright">&copy; 2023 All rights reserved</p>
-        <p>Made with <span style={{ color:`red` }}>Love</span> by Kevin</p>
+        <p className="made-by">Made with <span style={{ color:`red` }}>Love</span> by Kevin</p>
     </div>
   )
 }
