@@ -21,3 +21,19 @@
     border-radius: 5px;
     margin-top: 10px;
 }
+@media screen and (max-width: 778px) {
+    .home h1{
+        font-size: 40px;
+    }
+    .home h3{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:468px) {
+    .home h1{
+        font-size: 35px;
+    }
+    .home h3{
+        font-size: 22px;
+    }
+}

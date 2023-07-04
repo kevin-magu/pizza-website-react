@@ -25,3 +25,21 @@
     font-family: 'Promt', sans-serif;
     src: url('../../public/Prompt-Bold.ttf');
 }
+@media screen and (max-width: 1230px) {
+    .about-page-container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .right-side{
+        width: 80%;
+    }
+    .left-side{
+        text-align: center;
+        width: 97%;
+        font-size: 15px;
+    }
+    .left-side p{
+        font-size: 12px;
+    }
+}

@@ -11,6 +11,7 @@ function Contact() {
             <input type="text" />
             <label>Message</label>
             <textarea cols="30" rows="10"></textarea>
+            <p className='order'>Send</p>
             <button>Send</button>
         </form>
     </div>
