@@ -7,7 +7,7 @@ function Menucard({image, name,price}) {
         <div className='menu-name'>{name}</div>
         <p className='menu-price'>$ {price}</p>
 
-        <button type='submit'></button>
+        <button type='submit'>ORDER</button>
     </div>
   )
 }

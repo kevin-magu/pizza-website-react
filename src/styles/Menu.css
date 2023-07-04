@@ -37,3 +37,7 @@
 .menu-page-container{
     min-height: 90vh;
 }
+button{
+    height: 20px;
+    width: 20px;
+}
