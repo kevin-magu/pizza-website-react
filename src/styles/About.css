@@ -4,4 +4,11 @@
 
 .right-side{
     width: 50%;
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+    
+}
+.left-side{
+    width: 50%;
 }
