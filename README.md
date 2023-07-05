@@ -1,3 +1,9 @@
+THIS IS A PROJECT I DID WHEN LEARNIG REACT; AS A BEGINNER. I RECCOMMEND STARTING BUILDING A WEBSITE LIKE THIS. YOU WILL LEARN  LOT OF CONCEPTS.
+CLONE AND CONTRIBUTE TO THIS. HAPPY TIMES YALL!! 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
